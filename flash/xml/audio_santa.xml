@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<audioRoot>
+	
+		 <audioURL>http://utau-inu.com/flash/mp3/audio_santa.mp3</audioURL>
+
+		 <audioTitle>"Santa in a Can"</audioTitle>
+		 
+		 <audioArtist>Yochien Ronin</audioArtist>
+		 
+		 <audioField01Name>Runtime:</audioField01Name>
+		 <audioField01Val>04:06</audioField01Val>
+		 
+		 <audioField02Name>Music:</audioField02Name>
+		 <audioField02Val>ying + boo</audioField02Val>
+		 
+		 <audioField03Name>Vocals:</audioField03Name>
+		 <audioField03Val>boo</audioField03Val>
+		 
+		 <audioField04Name>Chorus:</audioField04Name>
+		 <audioField04Val>ying</audioField04Val>
+		 
+		 <audioField05Name>Guitar, bass, sleigh bells:</audioField05Name>
+		 <audioField05Val>ying</audioField05Val>
+		 
+		 <audioField06Name>Drums:</audioField06Name>
+		 <audioField06Val>john</audioField06Val>
+		 
+		 <audioField07Name>Recording:</audioField07Name>
+		 <audioField07Val>Ying@basement waste studios</audioField07Val>
+		 
+		 <audioField08Name>Mixing:</audioField08Name>
+		 <audioField08Val>Ying@basement waste studios</audioField08Val>
+	
+</audioRoot>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<videoRoot>
+	
+		 <videoURL>../flv/f_benjamin.flv</videoURL>
+
+		 <videoTitle>F is for Film: F_Benjamin Button</videoTitle>
+		 
+		 <videoDimensionsWidth>640</videoDimensionsWidth>
+		 
+		 <videoDimensionsHeight>480</videoDimensionsHeight>
+	
+		 <videoRuntime>10:10</videoRuntime>
+	
+		 <videoDateCreated>2009</videoDateCreated>
+		 
+		 <videoLocation>Clifton, Randolph</videoLocation>
+		 
+		 <videoStaff><![CDATA[Producer: Brian Stewart & Zack Wozniak; Written by: Brian Stewart Graphics: Chris Butler; Featuring: Jo Krukowski, Stephen Saluga, Chris Butler]]></videoStaff>
+	
+</videoRoot>

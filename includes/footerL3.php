@@ -1,0 +1,1 @@
+</div><div id="bottom"><p><a href="../../../">home</a> / <a href="../../../">blog</a> / <a href="../../../bio/">bio</a> / <a href="../../../works/">works</a> / <a href="../../../projects/">projects</a> / <a href="../../../pics/">pics</a> / <a href="../../../links/">links</a> / <a href="../../../">home</a></p><p>&copy; 2007 boo</p></div></div></body></html>

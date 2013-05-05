@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<audioRoot>
+	
+		 <audioURL>http://utau-inu.com/flash/mp3/audio_taco.mp3</audioURL>
+
+		 <audioTitle>"Love Taco"</audioTitle>
+		 
+		 <audioArtist>Yochien Ronin</audioArtist>
+		 
+		 <audioField01Name>Runtime:</audioField01Name>
+		 <audioField01Val>03:38</audioField01Val>
+		 
+		 <audioField02Name>Lyrics:</audioField02Name>
+		 <audioField02Val>boo</audioField02Val>
+		 
+		 <audioField03Name>Music:</audioField03Name>
+		 <audioField03Val>ying + boo</audioField03Val>
+		 
+		 <audioField04Name>Vocals:</audioField04Name>
+		 <audioField04Val>boo</audioField04Val>
+		 
+		 <audioField05Name>Guitar, digital programming:</audioField05Name>
+		 <audioField05Val>ying</audioField05Val>
+		 
+		 <audioField06Name>Recording:</audioField06Name>
+		 <audioField06Val>Ying Chee @ Union City</audioField06Val>
+		 
+		 <audioField07Name>Mixing:</audioField07Name>
+		 <audioField07Val>Ying Chee @ Union City</audioField07Val>
+		 
+		 <audioField08Name></audioField08Name>
+		 <audioField08Val></audioField08Val>
+	
+</audioRoot>

@@ -1,0 +1,1 @@
+<?php ob_start();$currentDir = "";include("../includes/header.php");?>	<div id="left">		<img src="images/side_intro.gif" width="237" height="317" alt="intro text" />		</div>		<div id="right">	<p>Text goes here</p>	</div><?phpob_end_flush(); include ("../includes/footer.php");?>

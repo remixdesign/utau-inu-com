@@ -1,0 +1,140 @@
+h1, h2, h3, h4, h5, h6 {
+	color: #580000;
+	line-height: 100%;
+}
+
+h1, h2, h3 {
+margin-top: 30px;
+/*margin-bottom: -7px;*/
+margin-bottom: 0px;
+}
+
+h4, h5, h6 {
+margin-top: 20px;
+/*margin-bottom: -10px;*/
+margin-bottom: 0px;
+}
+
+.top_reg_margin {
+margin-top: 5px;
+}
+
+.bottom_reg_margin {
+margin-bottom: 10px;
+}
+
+h1 {
+font-size: 24px;
+}
+
+
+h2 {
+font-size: 20px;
+}
+
+
+h3 {
+font-size: 18px;
+}
+
+
+h4 {
+font-size: 16px;
+}
+
+
+h5 {
+font-size: 14px;
+}
+
+
+h6 {
+font-size: 12px;
+}
+
+
+input.submit {
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #580000;
+}
+
+textarea {
+	background-color: #FEFEE2;
+	border: 1px solid #666666;
+	color: #000000;
+}
+
+input {
+	color: #580000;
+	background-color: #FEFEE2;
+	border: 1px solid #580000;
+}
+
+img {
+	border: 0px;
+}
+
+a:link, a:active, a:visited {
+	color: #580000;
+	background-color: transparent;
+}
+
+hr {
+	margin: 20px 0px;
+	border-top: 1px dotted #580000;
+}
+
+.margin0 {
+margin: 0px;
+}
+
+.left {
+	float: left;
+	margin-right: 10px;
+}
+
+.right {
+	float: right;
+	margin-left: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+}
+
+/* classes only for certain pages */
+
+
+h3.works_heading {
+
+	
+}
+
+.works_text {
+	
+	width: 765px;
+	padding: 10px;
+	background-color: #e6e6e6;
+}
+
+.works_pic {
+	/* background-color: #ffffff;
+	width: 100px;
+	height: 100px; */
+	float: left;
+	margin-right: 10px;
+	margin-top: 10px;
+	
+}
+
+/* some Coppermine Gallery quirk */
+
+.statlink h2 {
+	
+	color: #ffffff;
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<videoRoot>
+	
+		 <videoURL>../flv/iwp_pockets.flv</videoURL>
+
+		 <videoTitle>interviews: with people</videoTitle>
+		 
+		 <videoDimensionsWidth>655</videoDimensionsWidth>
+		 
+		 <videoDimensionsHeight>480</videoDimensionsHeight>
+	
+		 <videoRuntime>02:56</videoRuntime>
+	
+		 <videoDateCreated>October 2010</videoDateCreated>
+		 
+		 <videoAirDates>10/15/10 - 10/22/10</videoAirDates>
+		 
+		 <videoLocation>Jersey Gardens Mall, ...</videoLocation>
+		 
+		 <videoStaff><![CDATA[Producer: Brian Stewart
+Camera: Steve Saluga, Michael McDowell]]></videoStaff>
+	
+</videoRoot>

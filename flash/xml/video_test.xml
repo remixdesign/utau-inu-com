@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<videoRoot>
+	
+		 <videoURL>../flv/video_thecaptains.flv</videoURL>
+
+		 <videoTitle>The Captains - "First Love In America"</videoTitle>
+	
+		 <videoDimensionsWidth>320</videoDimensionsWidth>
+		 
+		 <videoDimensionsHeight>240</videoDimensionsHeight>
+		 
+		 <videoRuntime>06:42</videoRuntime>
+	
+		 <videoDateCreated>March 2008</videoDateCreated>
+		 
+		 <videoLocation>Sound Fix, Brooklyn</videoLocation>
+		 
+		 <videoStaff><![CDATA[Producer + Editor: Brian Stewart
+Camera: Nick Dapito]]></videoStaff>
+	
+</videoRoot>

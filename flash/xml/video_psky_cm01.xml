@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<videoRoot>
+	
+		 <videoURL>../flv/PS_CM.flv</videoURL>
+
+		 <videoTitle>Purple Sky CM 1</videoTitle>
+		 
+		 <videoDimensionsWidth>320</videoDimensionsWidth>
+		 
+		 <videoDimensionsHeight>240</videoDimensionsHeight>
+	
+		 <videoRuntime>03:51</videoRuntime>
+	
+		 <videoDateCreated>2007</videoDateCreated>
+		 
+		 <videoLocation>Office Building, NJ</videoLocation>
+		 
+		 <videoStaff><![CDATA[Producer: Brian Stewart
+Camera: Kathy Chee
+Editor: Jamie Brennan]]></videoStaff>
+	
+</videoRoot>

@@ -1,0 +1,31 @@
+for video:
+
+<script type="text/javascript">
+	var flashvars = {};
+	flashvars.videoXMLdoc = "../../../flash/xml/video_sample.xml";
+	var params = {};
+	var attributes = {};
+	swfobject.embedSWF("../../../flash/swf/videoPlayer.swf", "videoAlternativeContent", "775", "1055", "9.0.0", "flash/swf/expressInstall.swf", flashvars, params, attributes);
+</script>
+
+<div id="videoAlternativeContent">
+	<a href="http://www.adobe.com/go/getflashplayer">
+		<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+	</a>
+</div>
+
+for audio:
+
+<script type="text/javascript">
+	var flashvars = {};
+	flashvars.audioXMLdoc = "../../../flash/xml/audio_sample.xml";
+	var params = {};
+	var attributes = {};
+	swfobject.embedSWF("../../../flash/swf/audioPlayer.swf", "audioAlternativeContent", "640", "300", "9.0.0", "flash/swf/expressInstall.swf", flashvars, params, attributes);
+</script>
+
+<div id="audioAlternativeContent">
+	<a href="http://www.adobe.com/go/getflashplayer">
+		<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+	</a>
+</div>

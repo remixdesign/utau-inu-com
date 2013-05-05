@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<audioRoot>
+	
+		 <audioURL>http://utau-inu.com/flash/mp3/audio_mirrors.mp3</audioURL>
+
+		 <audioTitle>"Broken Mirrors"</audioTitle>
+		 
+		 <audioArtist></audioArtist>
+		 
+		 <audioField01Name>Runtime:</audioField01Name>
+		 <audioField01Val>04:24</audioField01Val>
+		 
+		 <audioField02Name>Lyrics:</audioField02Name>
+		 <audioField02Val>Zack Wozniak</audioField02Val>
+		 
+		 <audioField03Name>Music + Programming:</audioField03Name>
+		 <audioField03Val>Zack Wozniak</audioField03Val>
+		 
+		 <audioField04Name>Rap:</audioField04Name>
+		 <audioField04Val>Zack Wozniak</audioField04Val>
+		 
+		 <audioField05Name>Hook:</audioField05Name>
+		 <audioField05Val>Brian "boo" Stewart</audioField05Val>
+		 
+		 <audioField06Name>Recording:</audioField06Name>
+		 <audioField06Val>Zack @ his home studio</audioField06Val>
+		 
+		 <audioField07Name>Mixing:</audioField07Name>
+		 <audioField07Val>Zack @ his home studio</audioField07Val>
+		 
+		 <audioField08Name></audioField08Name>
+		 <audioField08Val></audioField08Val>
+	
+</audioRoot>
